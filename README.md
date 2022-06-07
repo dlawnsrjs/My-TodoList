@@ -3,6 +3,8 @@
 
 ## 안드로이드 코딩 강좌의 TodoList를 만들어봤습니다.<br>
 
+### SqlLite 대신 Room 라이브러리를 이용해서 제작했습니다
+
 ### DAO( @Query를 사용)로 Sql Select문을 이용한 정렬기능을 구글에서 찾아보고 구현했습니다
 
 ### 하단의 EditText에 내용을 입력 후 '추가' Button을 누르면 viewModel객체 내의 MutableLiveData의 value의 값이 변경되도록 설정했습니다.
